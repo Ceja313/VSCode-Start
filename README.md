@@ -37,7 +37,7 @@ Before you use the app set your app facebook and google clientid to `constent/co
 
 ---
 
-## Third party libraries
+## Third party libraries run start to start and go to localhost:8081 to see output
 
 | library | Summary |
 | --- | --- |
